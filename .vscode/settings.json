@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "cSpell.words": ["appello", "execa", "Timesheet", "useanzen", "utls", "vanos"],
+  "json.schemas": [
+    {
+      "fileMatch": ["/config/*.json"],
+      "url": "./schema/server.json"
+    }
+  ]
+}
